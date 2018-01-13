@@ -9,7 +9,7 @@ const Navbar = props =>
      <div className="container-fluid">
       <div className="navbar-header">
        <div className="navbar-brand" to="/">
-        <a href="/"><img src= {logo} style={{width:100, marginTop: -7}} /></a>
+        <a href="https://gentle-harbor-59380.herokuapp.com/"><img src= {logo} style={{width:100, marginTop: -7}} /></a>
         </div> 
        </div>      
      </div>
