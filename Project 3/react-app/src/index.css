@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+div[container] {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+
+}
+
+.container{
+	min-height: 515px;
+}
